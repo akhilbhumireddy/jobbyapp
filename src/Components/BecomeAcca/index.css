@@ -1,0 +1,15 @@
+.container{
+  height: 100vh;
+}
+.containerOne {
+  background-color: skyblue;
+  width: 100%;
+}
+.containerTwo {
+  background-color: rgb(255, 255, 255);
+  border-radius: 12px;
+  width: 100%;
+  max-width: 450px;
+  padding: 30px 25px;
+  border: 0.6px solid rgb(50, 17, 122);
+}
